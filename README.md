@@ -4,6 +4,9 @@ I’m interested in **finance** and **data**.
 
 ## Experience
 
+- 📝 Previously **Case Writer / Research Assistant** at [HKU Business School](https://www.hkubs.hku.hk/)
+  *Business case development, data-driven analysis, and writing for teaching and competition use*
+
 - 🏦 Previously in **Financial Institutions Coverage** at [Standard Chartered](https://www.sc.com/)  
   *G-SIB capital analytics, securitization/SRT advisory, Hong Kong stablecoin market strategy*
 
@@ -23,7 +26,6 @@ I’m interested in **finance** and **data**.
 
 ## Links
 
-- 🔗 Project: [SEC 13F Institutional Holdings Data Pipeline](https://github.com/VinciChan2233/13f-data-pipeline)
 - 🤝 LinkedIn: [vincichan1089](https://www.linkedin.com/in/vincichan1089/)
 - 📧 Email: [vincichan2233@gmail.com](mailto:vincichan2233@gmail.com)
 
