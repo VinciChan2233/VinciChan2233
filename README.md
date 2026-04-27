@@ -22,7 +22,7 @@ I’m interested in **finance** and **data**.
 
 ## Education
 
-- 🎓 **Economics & Finance Graduate** at the **University of Hong Kong**
+- 🎓 **Economics & Finance** at the **University of Hong Kong**
 
 ## Links
 
