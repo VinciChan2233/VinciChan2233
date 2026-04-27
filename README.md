@@ -1,21 +1,33 @@
 Hi, I'm Vinci Chan 👋
 
-* Finance professional and data analyst with experience in project finance, M&A, and credit analysis
-* Currently based in Hong Kong, planning a transition to Toronto
-* Building tools and pipelines at the intersection of finance and data science
+* Finance professional with experience across investment banking, M&A, and financial institutions coverage
+* Currently based in Hong Kong, with exposure to Toronto through my exchange at Schulich School of Business, York University
+* Building data pipelines and analytics tools at the intersection of finance and technology
 
 📊 I work with:
 
 * **R** — data analysis, financial modeling, reproducible research (tidyverse, data.table, Quarto)
 * **SQL** — querying and building databases for institutional holdings and financial data
 * **Python** — learning for data science and automation workflows
-* **Financial Modeling** — project finance, corporate finance, DCF, and credit analysis
-* **Data Pipelines** — ETL workflows, SEC EDGAR data extraction, parallel processing
+* **Financial Modeling** — DCF, M&A modeling, LBO, project finance, credit analysis
+* **Tools** — Excel, PowerPoint, FactSet, Capital IQ
 
-💼 Work experience:
+💼 Experience:
 
-* **Green Horizon** — Project finance analyst (M&A, deal analysis, credit modeling)
-* **University of Hong Kong (HKU)** — Finance/Economics (graduating 2026)
+* **Standard Chartered** — Summer Intern, Financial Institutions Coverage (Banks) | Jun–Aug 2025
+* **Lazard** — Investment Banking Summer Analyst, M&A | Jul–Sep 2024
+* **Green Horizon Capital Partners** — Off-Cycle Analyst, Energy Transition IB | Jul 2023–Jul 2024
+
+🎓 Education:
+
+* **University of Hong Kong (HKU)** — B.Econ & Finance, Upper Second Class (2021–2026)
+* **Schulich School of Business, York University** — Exchange Semester (Toronto, Jan–Apr 2024)
+
+🏆 Case Competitions:
+
+* 2nd Place — Lazaridis International Case Conference 2023 (Waterloo)
+* Finalist — John Molson Undergraduate Case Competition 2025 (Montreal)
+* Finalist — Thammasat Undergraduate Business Challenge 2025 (Bangkok)
 
 📈 Projects:
 
@@ -28,4 +40,4 @@ Hi, I'm Vinci Chan 👋
 * **LinkedIn**: [linkedin.com/in/vincichan1089](https://linkedin.com/in/vincichan1089)
 * **GitHub**: [VinciChan2233](https://github.com/VinciChan2233)
 
-🏃 Outside of work: American football, calisthenics, anime, and exploring new hiking trails.
+🏃 Outside of work: Calisthenics, sprinting, chess, bouldering, snowboarding.
