@@ -27,7 +27,7 @@ I’m interested in **finance** and **data**.
 ## Links
 
 - 🤝 LinkedIn: [vincichan1089](https://www.linkedin.com/in/vincichan1089/)
-- 📧 Email: [vincichan2233@gmail.com](mailto:vincichan2233@gmail.com)
+- 📧 Email: [wcchanvinci@gmail.com](mailto:wcchanvinci@gmail.com)
 
 ## Outside of work
 
